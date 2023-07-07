@@ -1,0 +1,7 @@
+/.qtc_clangd
+
+Makefile
+Makefile.Debug
+Makefile.Release
+
+.qmake.stash
